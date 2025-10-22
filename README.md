@@ -18,3 +18,4 @@ Performs basic arithmetic operations like addition, subtraction, multiplication,
 
 
 ## 📸 Preview
+<img width="1388" height="911" alt="image" src="https://github.com/user-attachments/assets/6eff117a-8ca4-4e4e-b57e-f574df828399" />
